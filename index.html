@@ -121,7 +121,7 @@
       window.addEventListener('load', async () => {
         if ('serviceWorker' in navigator) {
           try {
-            const result = await navigator.serviceWorker.register(`/sw.js`);
+            const result = await navigator.serviceWorker.register(`/logistic-web-cache/sw.js`);
 
             console.log('Service worker registered');
           } catch (error) {
