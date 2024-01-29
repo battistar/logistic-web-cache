@@ -1,7 +1,7 @@
 const CACHE_NAME = 'logistic-v1';
 
 const assets = [
-  '/logistic-web-cache/',
+  '/logistic-web-cache',
   '/logistic-web-cache/index.html',
   '/logistic-web-cache/test.html',
   '/logistic-web-cache/TEST.css',
