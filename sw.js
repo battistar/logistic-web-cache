@@ -18,7 +18,6 @@ const assets = [
   '/logistic-web-cache/Floor.jpg',
   '/logistic-web-cache/TEST.bin.xz',
   '/logistic-web-cache/TEST.gltf.xz',
-  '/logistic-web-cache/media/',
   '/logistic-web-cache/media/manifest.json',
   '/logistic-web-cache/media/apple-touch-icon.png',
   '/logistic-web-cache/media/favicon-16x16.png',
